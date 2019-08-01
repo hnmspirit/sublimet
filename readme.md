@@ -1,4 +1,4 @@
-* Setting up sublime text 3 for python
+# SUBLIME TEXT 3 SETUP FOR PYTHON
 
 ### fonts
 * FiraCode (FiraMono++)
@@ -21,4 +21,4 @@
 
 
 ### settings
-settings.js
+* settings.js
