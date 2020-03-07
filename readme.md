@@ -8,16 +8,15 @@
 <!-- python -->
 * Virtualenv
 * AutoFileName
-* (optional) Jedi - Python autocomplete
-* (opttional) AutoPEP8
+* Indent XML
+* Jedi - Python autocomplete
+* (optional) AutoPEP8
 * (optional) SublimeLinter
 * (optional) Anaconda
 
 <!-- theme -->
-* Afterglow - orange
-* Materialize - spacegray eighties
-* (optional) ayu
-* (optional) A File Icon
+* Afterglow
+* Materialize
 
 
 ### settings
